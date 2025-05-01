@@ -181,9 +181,3 @@ Podrobnější informace o vlastnostech čar:
 - **KeyAdapter:**
   - `keyPressed()` - Zpracování klávesových zkratek
   - `keyReleased()` - Resetování stavu kláves (např. SHIFT)
-
-#### Optimalizace
-- Bufferování vykreslování pro plynulý pohyb
-- Efektivní správa paměti při práci s velkými plátny
-- Optimalizované algoritmy pro detekci tvarů
-- Využití hardwarové akcelerace pro vykreslování
