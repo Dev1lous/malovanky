@@ -1,6 +1,7 @@
 # Grafický Editor
 
 Tento program je grafický editor, který umožňuje kreslení různých tvarů s možností jejich úpravy. Program je napsán v Javě a využívá Swing pro grafické rozhraní.
+Ne, Java Swing není knihovna třetí strany. Je to součást standardní Java knihovny (JDK) děkujeme.
 
 ## Hlavní funkce
 
